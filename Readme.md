@@ -15,7 +15,7 @@
 
 
 ## Web
-<img src="https://i.imgur.com/XQ1Z0qh.jpg" alt="alt text" width="250" height="350">
+<img src="https://i.imgur.com/XQ1Z0qh.jpg" alt="alt text" width="450" height="450">
 
 
 
