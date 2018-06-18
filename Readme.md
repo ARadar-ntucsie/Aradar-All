@@ -28,4 +28,4 @@ In Aradar, there is a friendly web interface for users to upload their spots and
 
 
 ## Video
-[Demo Video](https://drive.google.com/open?id=1ZKXl6pvX7JknII8navKaPjYu2Rx4knRf)
+[Demo Video](https://drive.google.com/file/d/1WSQEGcNr3RFRqP71XUIJpa4CmyhOtiMA/view?usp=sharing)
