@@ -2,5 +2,5 @@
 	path = web
 	url = https://github.com/ARadar-ntucsie/web
 [submodule "aRadar"]
-	path = ARadar
+	path = aRadar
 	url = https://github.com/ARadar-ntucsie/ARadar
