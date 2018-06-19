@@ -1,4 +1,5 @@
-# Aradar
+# Aradar | [Demo Video](https://drive.google.com/file/d/1WSQEGcNr3RFRqP71XUIJpa4CmyhOtiMA/view?usp=sharing)
+
 
 ## Member
 陳佳佑, 莊翔旭, 江緯璿
@@ -17,15 +18,7 @@ In Aradar, there is a friendly web interface for users to upload their spots and
 <img src="https://i.imgur.com/k9y13aR.png" alt="alt text" width="250" height="250">
 
 ## App
-<img src="https://i.imgur.com/gRz3D5r.jpg" alt="alt text" width="250" height="350">
-<img src="https://i.imgur.com/imX6Aj6.jpg" alt="alt text" width="250" height="350">
-<img src="https://i.imgur.com/psgJQe8.jpg" alt="alt text" width="250" height="350">
-
+<img src="https://i.imgur.com/PzH9KMK.png" alt="alt text" width="100%" height="500">
 
 ## Web
-<img src="https://i.imgur.com/XQ1Z0qh.jpg" alt="alt text" width="600" height="450">
-
-
-
-## Video
-[Demo Video](https://drive.google.com/file/d/1WSQEGcNr3RFRqP71XUIJpa4CmyhOtiMA/view?usp=sharing)
+<img src="https://i.imgur.com/XQ1Z0qh.jpg" alt="alt text" width="100%" height="550">
