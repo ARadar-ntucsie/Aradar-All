@@ -21,4 +21,4 @@ In Aradar, there is a friendly web interface for users to upload their spots and
 <img src="https://i.imgur.com/PzH9KMK.png" alt="alt text" width="100%" height="500">
 
 ## Web
-<img src="https://i.imgur.com/XQ1Z0qh.jpg" alt="alt text" width="100%" height="550">
+<img src="https://i.imgur.com/YuB4wp9.png" alt="alt text" width="100%" height="550">
